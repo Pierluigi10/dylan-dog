@@ -16,6 +16,12 @@ Dylan Dog Portfolio
 ## Used NPM Packages:
 
 - react-router-dom
-- gh-pages 
+- gh-pages
+
+<br />
+
+### Web deploy:
+
+https://pierluigi10.github.io/dylan-dog/
 
 <br />
