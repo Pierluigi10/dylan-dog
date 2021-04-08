@@ -1,3 +1,23 @@
+:root {
+  --main-yellow: #f3c216;
+  --main-red: #eb3713;
+  --main-black: #040404;
+  --main-beige: #e6cec0;
+  --main-light-brown: #2e1815;
+  --main-dark-brown: #63382e;
+  --main-blue-grey: #67748a;
+  --main-green-grey: #2b4e63;
+  --main-light-blue: #76889d;
+  --main-dark-blue: #23354c;
+
+  --main-p-orange: #ff7820;
+  --main-p-blue: #255762;
+
+  --main-g-yellow: #ffef00;
+  --main-g-red: #ff3612;
+}
+
 .App {
   display: flex;
+  flex-direction: column;
 }
