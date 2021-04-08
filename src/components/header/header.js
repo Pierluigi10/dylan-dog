@@ -1,9 +1,12 @@
 import "./header.css";
+import NavHeader from "../nav-header/nav-header";
+import MainHeader from "../main-header/main-header";
 
 function Header() {
   return (
     <div className="header--wrapper">
-      <h1>Dylan Dog</h1>
+      <NavHeader />
+      <MainHeader />
     </div>
   );
 }

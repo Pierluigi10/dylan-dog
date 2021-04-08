@@ -1,0 +1,35 @@
+.navheader--wrapper {
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  background-color: var(--main-black);
+}
+
+.navheader--wrapper ul {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 600px) {
+  .navheader--wrapper ul {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+.navheader--wrapper ul > * {
+  padding: 5px;
+  margin: 5px 20px 5px 5px;
+}
+
+.navheader--wrapper a {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--main-yellow);
+}
+
+.navheader--wrapper a:hover {
+  color: var(--main-red);
+}
