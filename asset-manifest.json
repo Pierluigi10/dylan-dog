@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dylan-dog/static/css/main.6959aee0.chunk.css",
+    "main.css": "/dylan-dog/static/css/main.efcaf86d.chunk.css",
     "main.js": "/dylan-dog/static/js/main.529c7c81.chunk.js",
     "main.js.map": "/dylan-dog/static/js/main.529c7c81.chunk.js.map",
     "runtime-main.js": "/dylan-dog/static/js/runtime-main.a025f96f.js",
@@ -10,7 +10,7 @@
     "static/js/3.3258e283.chunk.js": "/dylan-dog/static/js/3.3258e283.chunk.js",
     "static/js/3.3258e283.chunk.js.map": "/dylan-dog/static/js/3.3258e283.chunk.js.map",
     "index.html": "/dylan-dog/index.html",
-    "static/css/main.6959aee0.chunk.css.map": "/dylan-dog/static/css/main.6959aee0.chunk.css.map",
+    "static/css/main.efcaf86d.chunk.css.map": "/dylan-dog/static/css/main.efcaf86d.chunk.css.map",
     "static/js/2.4277bdc9.chunk.js.LICENSE.txt": "/dylan-dog/static/js/2.4277bdc9.chunk.js.LICENSE.txt",
     "static/media/dd-bart2.75abf3a0.png": "/dylan-dog/static/media/dd-bart2.75abf3a0.png",
     "static/media/dd-logo.ca5ce1c3.png": "/dylan-dog/static/media/dd-logo.ca5ce1c3.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a025f96f.js",
     "static/js/2.4277bdc9.chunk.js",
-    "static/css/main.6959aee0.chunk.css",
+    "static/css/main.efcaf86d.chunk.css",
     "static/js/main.529c7c81.chunk.js"
   ]
 }
