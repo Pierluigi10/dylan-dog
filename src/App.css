@@ -1,7 +1,9 @@
 :root {
+  --main-white: #fafaff;
+  --main-black: #040404;
+
   --main-yellow: #f3c216;
   --main-red: #eb3713;
-  --main-black: #040404;
   --main-beige: #e6cec0;
   --main-light-brown: #2e1815;
   --main-dark-brown: #63382e;

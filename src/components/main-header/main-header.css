@@ -1,16 +1,15 @@
 .mainheader--wrapper {
+  /* border: 50px solid red; */
   display: flex;
+  flex-direction: column;
   height: 100vh;
-  max-width: 100%;
+  width: 100%;
   background-color: var(--main-black);
-  background-image: url("../../assets/images/dd-standing.png");
-  background-size: cover;
-  background-position: 50% 50%;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 850px) {
   .mainheader--wrapper {
-    background-image: url("../../assets/images/dd-header.png");
+    flex-direction: row;
   }
 }
 
@@ -19,4 +18,17 @@
   font-weight: bold;
   color: red;
   margin: 10px 10px;
+  word-break: break-all;
+}
+
+.mainheader--wrapper img {
+  margin: 20px auto;
+  width: 80vw;
+}
+
+@media screen and (min-width: 800px) {
+  .mainheader--wrapper img {
+    width: 600px;
+    margin: 10px 100px 10px auto;
+  }
 }
