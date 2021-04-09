@@ -1,6 +1,6 @@
 import "./header.css";
-import NavHeader from "../nav-header/nav-header";
-import MainHeader from "../main-header/main-header";
+import NavHeader from "./nav-header";
+import MainHeader from "./main-header";
 
 function Header() {
   return (

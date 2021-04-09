@@ -10,7 +10,7 @@ function MainHeader() {
           <img src={imgLogoDD} alt="Dylan Dog Home Logo" />
         </h2>
         <h3>L'INDAGATORE DELL'INCUBO</h3>
-      </div>
+        </div>
       <img src={imgBart2} alt="Dylan Dog standing" />
     </div>
   );
