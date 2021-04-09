@@ -3,6 +3,7 @@
   height: auto;
   display: flex;
   background-color: var(--main-black);
+  padding: 0px 20px ;
 }
 
 .navheader--wrapper ul {
@@ -21,14 +22,6 @@
 .navheader--wrapper ul > * {
   padding: 5px;
   margin: 5px 20px 5px 5px;
-}
-
-.navheader--wrapper h1 {
-  color: var(--main-red);
-}
-
-.navheader--wrapper h1:hover {
-  color: var(--main-yellow);
 }
 
 .navheader--wrapper a {

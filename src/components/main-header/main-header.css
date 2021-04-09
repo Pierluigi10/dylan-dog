@@ -13,11 +13,16 @@
   }
 }
 
-.mainheader--wrapper h2 {
+.mainheader--wrapper div h2 img {
+  width: 500px;
+  margin: 50px 10px 10px 30px;
+}
+
+.mainheader--wrapper h3 {
   font-size: 33px;
   font-weight: bold;
   color: red;
-  margin: 10px 10px;
+  margin: 10px 10px 10px 30px;
   word-break: break-all;
 }
 
@@ -29,6 +34,6 @@
 @media screen and (min-width: 800px) {
   .mainheader--wrapper img {
     width: 600px;
-    margin: 10px 100px 10px auto;
+    margin: 10px 50px 10px auto;
   }
 }
