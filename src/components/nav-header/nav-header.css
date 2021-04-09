@@ -3,7 +3,7 @@
   height: auto;
   display: flex;
   background-color: var(--main-black);
-  padding: 0px 20px ;
+  padding: 0px 20px;
 }
 
 .navheader--wrapper ul {

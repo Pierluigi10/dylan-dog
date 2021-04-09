@@ -21,7 +21,7 @@
 .mainheader--wrapper h3 {
   font-size: 33px;
   font-weight: bold;
-  color: red;
+  color: var(--main-white);
   margin: 10px 10px 10px 30px;
   word-break: break-all;
 }
