@@ -2,6 +2,14 @@ import "./nav-header.css";
 
 function NavHeader() {
   return (
+    <details id="mobile-menu">
+    <summary>
+    <div id="burger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </summary>
     <nav className="navheader--wrapper">
       <ul>
         <li>
@@ -20,6 +28,7 @@ function NavHeader() {
         </li>
       </ul>
     </nav>
+    </details>
   );
 }
 
