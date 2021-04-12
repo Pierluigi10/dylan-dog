@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/dylan-dog/static/css/main.7c0a8ddb.chunk.css",
-    "main.js": "/dylan-dog/static/js/main.e59b2b5f.chunk.js",
-    "main.js.map": "/dylan-dog/static/js/main.e59b2b5f.chunk.js.map",
-    "runtime-main.js": "/dylan-dog/static/js/runtime-main.a025f96f.js",
-    "runtime-main.js.map": "/dylan-dog/static/js/runtime-main.a025f96f.js.map",
-    "static/js/2.4277bdc9.chunk.js": "/dylan-dog/static/js/2.4277bdc9.chunk.js",
-    "static/js/2.4277bdc9.chunk.js.map": "/dylan-dog/static/js/2.4277bdc9.chunk.js.map",
-    "static/js/3.3258e283.chunk.js": "/dylan-dog/static/js/3.3258e283.chunk.js",
-    "static/js/3.3258e283.chunk.js.map": "/dylan-dog/static/js/3.3258e283.chunk.js.map",
+    "main.css": "/dylan-dog/static/css/main.d5daa7f2.chunk.css",
+    "main.js": "/dylan-dog/static/js/main.b277436d.chunk.js",
+    "main.js.map": "/dylan-dog/static/js/main.b277436d.chunk.js.map",
+    "runtime-main.js": "/dylan-dog/static/js/runtime-main.1386f66a.js",
+    "runtime-main.js.map": "/dylan-dog/static/js/runtime-main.1386f66a.js.map",
+    "static/js/2.e5abf61a.chunk.js": "/dylan-dog/static/js/2.e5abf61a.chunk.js",
+    "static/js/2.e5abf61a.chunk.js.map": "/dylan-dog/static/js/2.e5abf61a.chunk.js.map",
+    "static/js/3.2387564a.chunk.js": "/dylan-dog/static/js/3.2387564a.chunk.js",
+    "static/js/3.2387564a.chunk.js.map": "/dylan-dog/static/js/3.2387564a.chunk.js.map",
     "index.html": "/dylan-dog/index.html",
-    "static/css/main.7c0a8ddb.chunk.css.map": "/dylan-dog/static/css/main.7c0a8ddb.chunk.css.map",
-    "static/js/2.4277bdc9.chunk.js.LICENSE.txt": "/dylan-dog/static/js/2.4277bdc9.chunk.js.LICENSE.txt",
+    "static/css/main.d5daa7f2.chunk.css.map": "/dylan-dog/static/css/main.d5daa7f2.chunk.css.map",
+    "static/js/2.e5abf61a.chunk.js.LICENSE.txt": "/dylan-dog/static/js/2.e5abf61a.chunk.js.LICENSE.txt",
     "static/media/dd-bart2.75abf3a0.png": "/dylan-dog/static/media/dd-bart2.75abf3a0.png",
-    "static/media/dd-logo.ca5ce1c3.png": "/dylan-dog/static/media/dd-logo.ca5ce1c3.png"
+    "static/media/dd-logo.ca5ce1c3.png": "/dylan-dog/static/media/dd-logo.ca5ce1c3.png",
+    "static/media/menu.96de8baf.svg": "/dylan-dog/static/media/menu.96de8baf.svg",
+    "static/media/x.34697784.svg": "/dylan-dog/static/media/x.34697784.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a025f96f.js",
-    "static/js/2.4277bdc9.chunk.js",
-    "static/css/main.7c0a8ddb.chunk.css",
-    "static/js/main.e59b2b5f.chunk.js"
+    "static/js/runtime-main.1386f66a.js",
+    "static/js/2.e5abf61a.chunk.js",
+    "static/css/main.d5daa7f2.chunk.css",
+    "static/js/main.b277436d.chunk.js"
   ]
 }
